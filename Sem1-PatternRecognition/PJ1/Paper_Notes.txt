@@ -1,0 +1,9 @@
+Intro
+many algos proposed for binary classsifiction problem.
+one of the strongest is svm.
+traditionally svm solves multiclass problem by reducing the problem to 
+multiple independant binary classifications.
+this is not complete and very nice, since does not capture correlation
+between classes.
+But this paper provides a direct approach to learn multiclass
+

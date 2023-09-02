@@ -29,3 +29,15 @@ Flipped Course + [CS224n winter 2021 materials](https://web.stanford.edu/class/a
 |   3   |       Dependency Parsing      | Neural Transition-Based DP | [Assignment 3](https://github.com/ErfanMoosaviMonazzah/IUST-Courses/tree/main/Sem1-NLP-CS224n-Winter2021/Assignment%203%20-%20Code) |                       |
 |   4   |   Neural Machine Translation  |     LSTM & Beam Search     | [Assignment 4](https://github.com/ErfanMoosaviMonazzah/IUST-Courses/tree/main/Sem1-NLP-CS224n-Winter2021/Assignment%204%20-%20Code) |           *           |
 |   5   | Self-Attention & Transformers |   Pretraining & GPT Model  | [Assignment 5](https://github.com/ErfanMoosaviMonazzah/IUST-Courses/tree/main/Sem1-NLP-CS224n-Winter2021/Assignment%205%20-%20Code) |           *           |
+
+## Second Semester
+### Deep Learning
+| **#** |             **Subject 1**            |      **Subject 2**     |                                           **Link**                                          | **Selected Projects** |
+|:-----:|:------------------------------------:|:----------------------:|:-------------------------------------------------------------------------------------------:|:---------------------:|
+|   1   |  Linear Model & Logistic Regression  | PyTorch & Scikit-Learn | [HW1](https://github.com/ErfanMoosaviMonazzah/IUST-Courses/tree/main/Sem2-DeepLearning/HW1) |                       |
+|   2   |                  MLP                 | Classification Metrics | [HW2](https://github.com/ErfanMoosaviMonazzah/IUST-Courses/tree/main/Sem2-DeepLearning/HW2) |                       |
+|   3   |             Optimization             |        AdaBelief       | [HW3](https://github.com/ErfanMoosaviMonazzah/IUST-Courses/tree/main/Sem2-DeepLearning/HW3) |                       |
+|   4   | CNN & Interpretation & Visualization |    Capsule Networks    | [HW4](https://github.com/ErfanMoosaviMonazzah/IUST-Courses/tree/main/Sem2-DeepLearning/HW4) |           *           |
+|   5   |  Image Captioning & Glove Embeddings |       Fine-tuning      | [HW5](https://github.com/ErfanMoosaviMonazzah/IUST-Courses/tree/main/Sem2-DeepLearning/HW5) |           *           |
+|   6   |    Self-Attention & Visualization    |   Transformers & ViT   | [HW6](https://github.com/ErfanMoosaviMonazzah/IUST-Courses/tree/main/Sem2-DeepLearning/HW6) |           *           |
+|   7   |  Optuna hyperparameter optimization  |     Conditional GAN    | [HW7](https://github.com/ErfanMoosaviMonazzah/IUST-Courses/tree/main/Sem2-DeepLearning/HW7) |           *           |

@@ -41,3 +41,11 @@ Flipped Course + [CS224n winter 2021 materials](https://web.stanford.edu/class/a
 |   5   |  Image Captioning & Glove Embeddings |       Fine-tuning      | [HW5](https://github.com/ErfanMoosaviMonazzah/IUST-Courses/tree/main/Sem2-DeepLearning/HW5) |           *           |
 |   6   |    Self-Attention & Visualization    |   Transformers & ViT   | [HW6](https://github.com/ErfanMoosaviMonazzah/IUST-Courses/tree/main/Sem2-DeepLearning/HW6) |           *           |
 |   7   |  Optuna hyperparameter optimization  |     Conditional GAN    | [HW7](https://github.com/ErfanMoosaviMonazzah/IUST-Courses/tree/main/Sem2-DeepLearning/HW7) |           *           |
+
+### Multi Agent Systems
+| **#** |           **Subject 1**           |       **Subject 2**      |                                             **Link**                                             | **Selected Projects** |
+|:-----:|:---------------------------------:|:------------------------:|:------------------------------------------------------------------------------------------------:|:---------------------:|
+|   1   |    Single Vacuum Cleaner Agent    |   Graphical Simulation   | [HW1](https://github.com/ErfanMoosaviMonazzah/IUST-Courses/tree/main/Sem2-MultiAgentSystems/HW1) |                       |
+|   2   | Competitive Vacuum Cleaner Agents |   Graphical Simulation   | [HW2](https://github.com/ErfanMoosaviMonazzah/IUST-Courses/tree/main/Sem2-MultiAgentSystems/HW2) |                       |
+|   3   | Cooperative Vacuum Cleaner Agents |   Graphical Simulation   | [HW3](https://github.com/ErfanMoosaviMonazzah/IUST-Courses/tree/main/Sem2-MultiAgentSystems/HW3) |           *           |
+|   4   |       Ascending Bid Auction       | Three Sided Negotitation | [HW4](https://github.com/ErfanMoosaviMonazzah/IUST-Courses/tree/main/Sem2-MultiAgentSystems/HW4) |           *           |
